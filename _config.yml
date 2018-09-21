@@ -7,7 +7,7 @@ description: "珠海本地的电动车锂电池供应商"
 keyword: "珠海锂电池, 美团锂电池, 电动车锂电池维修, 柠溪锂电池, 美团48伏锂电池, 电单车锂电池, 外卖锂电池, 珠海锂电池定制,小红牛锂电池"
 url: "http://qytydmuv.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
-github_repo: "https://github.com/qiubaiying/qytydmuv.github.io.git" # you code repository
+github_repo: "https://github.com//qytydmuv.github.io.git" # you code repository
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
