@@ -98,14 +98,14 @@ service-worker: true
 
 # Friends
 friends: [
-​    {
-​        title: "电动车联盟论坛",
-​        href: "http://www.ddclm.com/bbs/forum-29-1.html"
-​    },{
-​        title: "矿石收音机论坛",
-​        href: "http://www.crystalradio.cn/forum.php"
-​    },{
-​        title: "科技爱好者博客",
-​        href: "http://blog.lxx1.com/page/3"
-​    }
+    {
+        title: "电动车联盟论坛",
+        href: "http://www.ddclm.com/bbs/forum-29-1.html"
+    },{
+        title: "矿石收音机论坛",
+        href: "http://www.crystalradio.cn/forum.php"
+    },{
+        title: "Apple",
+        href: "https://apple.com"
+    }
 ]
