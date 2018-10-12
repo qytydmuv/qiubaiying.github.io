@@ -1,10 +1,10 @@
 ﻿# Site settings
 title: 小红牛锂电池
 SEOTitle: 小红牛锂电池 | xhnn
-header-img: img/post-bg-desk.jpg
-email: qiubaiying@gmail.com
-description: "珠海本地的电动车锂电池供应商"
-keyword: "珠海锂电池, 美团锂电池, 电动车锂电池维修, 柠溪锂电池, 美团48伏锂电池, 电单车锂电池, 外卖锂电池, 珠海锂电池定制,小红牛锂电池"
+header-img: img/post-bg-cook.jpg
+email: xhnn777@163.com
+description: "珠海电动车锂电池定制与改装"
+keyword: "珠海电动车锂电池"
 url: "http://qytydmuv.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/qytydmuv/qytydmuv.github.io.git" # you code repository
