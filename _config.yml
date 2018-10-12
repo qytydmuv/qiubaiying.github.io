@@ -104,5 +104,9 @@ friends: [
     },{
         title: "矿石收音机论坛",
         href: "http://www.crystalradio.cn/forum.php"
+    },{
+        title: "阮一峰",
+        href: "http://www.ruanyifeng.com/blog/"
     }
+
 ]
