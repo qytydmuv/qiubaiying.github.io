@@ -1,4 +1,4 @@
-# Site settings
+﻿# Site settings
 title: 小红牛锂电池
 SEOTitle: 小红牛锂电池 | xhnn
 header-img: img/post-bg-desk.jpg
@@ -104,8 +104,5 @@ friends: [
     },{
         title: "矿石收音机论坛",
         href: "http://www.crystalradio.cn/forum.php"
-    },{
-        title: "Apple",
-        href: "https://apple.com"
     }
 ]
