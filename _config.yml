@@ -103,10 +103,22 @@ friends: [
         href: "http://www.ddclm.com/bbs/forum-29-1.html"
     },{
         title: "矿石收音机论坛",
-        href: "http://www.crystalradio.cn/forum.php"
+        href: "http://www.crystalradio.cn/"
     },{
         title: "阮一峰",
         href: "http://www.ruanyifeng.com/blog"
+    },{
+        title: "手电大家谈",
+        href: "http://www.shoudian.org/"
+    },{
+        title: "王建硕",
+        href: "http://home.wangjianshuo.com/cn/"
+    },{
+        title: "魏武挥",
+        href: "http://weiwuhui.com/position/logic"
+    },{
+        title: "百姓网",
+        href: "http://zhuhai.baixing.com/ershoudiandongche/a1618243341.html?from=ding"
     }
 
 ]
